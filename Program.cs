@@ -8,7 +8,7 @@ namespace MethodsPart1
 {
     class Program
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             
             int a, b,addResult=0;
