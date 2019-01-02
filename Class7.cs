@@ -8,7 +8,7 @@ namespace DictionaryApp
 {
     class Class7
     {
-        static void Main8(string[] args)
+        static void Main(string[] args)
         {
       
             Dictionary<string, string> capitals = new Dictionary<string, string>();
