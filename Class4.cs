@@ -8,7 +8,7 @@ namespace Classes
 {
     class Class4
     {
-        static void Main5(String[] args)
+        static void Main(String[] args)
         {
             Person perOne = new Person();
             perOne.FirstName = "Harsha";
