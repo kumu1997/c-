@@ -8,7 +8,7 @@ namespace Stringcharactersidentification
 {
     class Class18
     {
-        public static void Main19(string [] args)
+        public static void Main(string [] args)
         {
             string s = Console.ReadLine();
             int number=0,capital = 0, small = 0, special = 0, space = 0;
