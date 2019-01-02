@@ -8,7 +8,7 @@ namespace Removeduplicatestringcharacters
 {
     class Class19
     {
-        public static void Main20(string [] args)
+        public static void Main(string [] args)
         {
             String value1 = Removeduplicatechars("Google");
             Console.WriteLine(value1);
