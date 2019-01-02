@@ -11,7 +11,7 @@ namespace Reversewords
     {
         
             
-            public static void  Main18(string [] args)
+            public static void  Main(string [] args)
             {
                 string s=Console.ReadLine();
                 string result = "";
