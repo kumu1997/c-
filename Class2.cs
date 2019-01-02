@@ -8,7 +8,7 @@ namespace MethodPart3
 {
     class Class2
     {
-        public static void Main3(String[] args)
+        public static void Main(String[] args)
         {
             string firstEmployee = "Harsha Nemani";
             string secondEmployee = "Ashish";
