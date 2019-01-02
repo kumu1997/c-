@@ -9,7 +9,7 @@ namespace RecurssiveMethods
 {
     class Class8
     {
-        static void Main9(string[] args)
+        static void Main(string[] args)
         {
             int number = 5;
 
