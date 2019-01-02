@@ -8,7 +8,7 @@ namespace Stringmanipulationex1
 {
     class Class16
     {
-        public static void Main17(string[] args)
+        public static void Main(string[] args)
         {
             var originalString = "Ram is a good boy";
 
