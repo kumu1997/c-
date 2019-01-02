@@ -8,7 +8,7 @@ namespace MethodsPart2
 {
     class Program
     {
-        private static void Main2()
+        private static void Main()
         {
             Console.Clear();
             int a=5, b=3, c=10, d=20;
