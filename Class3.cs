@@ -9,7 +9,7 @@ namespace MethodsPart4
 {
     class Class3
     {
-        static void Main4(String [] args)
+        static void Main(String [] args)
         {
             string guestName = "";
             Console.WriteLine("Hello,Dear Guest,what is your name?");
