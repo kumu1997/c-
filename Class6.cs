@@ -10,7 +10,7 @@ namespace ArrayListApp
 {
     class Class6
     {
-        static void Main7(String [] args)
+        static void Main(String [] args)
         {
             ArrayList array = new ArrayList();
 
